@@ -67,6 +67,19 @@ plg.execute()
 
 Running example
 
+```bash
+cd examples/disk
+```
+
 ```python
-python3 examples/disk/Twister2FlowWithDisk.py
+python3 Twister2FlowWithDisk.py
+```
+## Run In-Memory Example
+
+```bash
+cd examples/memory
+```
+
+```python
+python3 Twister2FlowWithMemory.py
 ```
