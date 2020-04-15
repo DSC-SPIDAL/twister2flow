@@ -4,9 +4,8 @@ Designing a dataflow pipeline to support high performance deep learning in Twist
 
 ## Pytorch Setup On RHEL7
 
-# PytorchExamples
 
-## Set Up Romeo (RHEL7) For Pytorch Parallel Compatibility
+### Set Up Romeo (RHEL7) For Pytorch Parallel Compatibility
 
 ```bash
 module load anaconda
